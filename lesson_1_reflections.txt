@@ -1,0 +1,23 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+
+Well, easy access to the entire history of a file would give me access easily incase of an error. Like for example due to some reasons, the file fails to work. I could go and look up a last working version of it, and change it to that.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does? 
+
+Pros:
+meaningful commits
+more freedom and flexibility
+
+Cons:
+If user is not careful, might lead to heavy and difficult-to-understand commits
+User has to keep in mind to regularly commit  
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log can be used to list the commits of the repository, where as git diff is used to see the changes between two commits.
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+One need not worry about breaking something as a version control would contain a working commit prior to that. Thus, it allows the developers to be braver and try out new things without worrying about breaking their current work. 
